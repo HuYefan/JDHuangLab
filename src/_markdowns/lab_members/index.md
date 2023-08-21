@@ -70,7 +70,7 @@ Phone: (852) 3917 9479
 
 Email: <hanshuo@connect.hku.hk>
 
-### Dr Li Rong 荣丽
+### Dr Li Rong, Shirely  荣丽
 
 Post-doctoral Fellow
 
@@ -219,7 +219,7 @@ Email: <akanshas@hku.hk>
 
 #### Mr Shum Kato 沈家滔, Alfred (2004)
 
-#### Mr Chan Ching, AnDrew 陈晶 (2004-2005)
+#### Mr Chan Ching, Andrew 陈晶 (2004-2005)
 
 #### Miss Kee Ka Man 紀嘉雯, Carman (2005-2006)
 
@@ -235,7 +235,7 @@ Email: <akanshas@hku.hk>
 
 #### Mr Ma Wei (2008)
 
-#### Mr Wong Ho Yin Bosco 王浩然 (2010-2011)
+#### Mr Wong Ho Yin, Bosco 王浩然 (2010-2011)
 
 ### MMedSci Student
 
@@ -265,8 +265,8 @@ Email: <akanshas@hku.hk>
 
 #### Miss Shi Lei 石蕾 (9/1/2008-7/31/2010 transfer to PhD)
 
-####  Kimura Mari  MPhil Student (2011 -)
-####  Fong Hoi Chun  MPhil Student (2019 -)
+####  Kimura Mari MPhil Student (2011 -)
+####  Hoi Chun Fong  MPhil Student (2019 -)
 
 
 
@@ -405,14 +405,14 @@ Facebook: <http://www.facebook.com/wqxue>
 ####  Wong Sheung Kin Ken  PhD Student (2015 -)
 ####  Xia Tingying 夏婷颖 PhD Student (2015 -)
 ####  Zhao Kaiqiang  PhD Student (2015 -)
-####  Badea Smaranda-ruxanDra  PhD Student (2016 -)
+####  Badea Smaranda-ruxandra  PhD Student (2016 -)
 ####  Deng Jian 邓健 PhD Student (2016 -)
 ####  Fan Ruolin  PhD Student (2016 -)
 ####  Han Shuo 韩朔 PhD Student (2016 -)
 ####  Gao Ge  PhD Student (2017 -)
-####  Rong Li 荣丽 PhD Student (2017 -)
+####  Rong Li, Shirely 荣丽 PhD Student (2017 -)
 ####  Chen Huan 陈欢 PhD Student (2018 -)
-####  Gong Huarui 龚华锐 PhD Student (2018 -)
+####  Gong Huarui, Amy 龚华锐 PhD Student (2018 -)
 ####  Guo Jilong  PhD Student (2018 -)
 ####  He Yi  PhD Student (2018 -)
 ####  Kuwentrai Chaiyaporn  PhD Student (2018 -)
