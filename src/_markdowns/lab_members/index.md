@@ -14,7 +14,7 @@ L & T Charitable Foundation Professor in Biomedical Sciences
 
 Location: Laboratory Block, Faculty of Medicine Building
 
-Office Phone: (852) 2819 2810
+Office Phone: (852) 3917 6810
 
 Email: <jdhuang@hku.hk>
 
@@ -284,6 +284,16 @@ Email: <akanshas@hku.hk>
 
 #### Miss Shi Lei 石蕾 (9/1/2008-7/31/2010 transfer to PhD)
 
+####  Kimura Mari  MPhil Student (2011 -)
+####  Fong Hoi Chun  MPhil Student (2019 -)
+####  Dou Ying  MPhil Student (2022 -)
+####  He Yige  MPhil Student (2022 -)
+####  Lee Jiho  MPhil Student (2022 -)
+####  Qi Haoran  MPhil Student (2022 -)
+####  Wang Zhe  MPhil Student (2022 -)
+####  Xu Anqi  MPhil Student (2022 -)
+
+
 ### PhD students
 
 #### Mr. Li Xintian 李新田 (co-supervised with Prof. Depei Liu, 2000-2002)
@@ -353,6 +363,59 @@ Phone: (852) 2819-9479
 Email: <songsong713@gmail.com>
 
 Facebook: <http://www.facebook.com/profile.php?id=701421187>
+
+####  Sung Ying Ju Cecilia  PhD Student (2010 -)
+####  Xue Wenqian  PhD Student (2010 -)
+####  Hu Jianjiang  PhD Student (2011 -)
+####  Hua Yanhong  PhD Student (2011 -)
+####  Leung Ho Chuen  PhD Student (2011 -)
+####  Lin Qiubin  PhD Student (2011 -)
+####  Lu Shiqiang  PhD Student (2011 -)
+####  Wong Hoi Leong Xavier  PhD Student (2011 -)
+####  Yang Xi  PhD Student (2011 -)
+####  Duan Zhigang  PhD Student (2012 -)
+####  Liu Lizhong  PhD Student (2012 -)
+####  Tang Xuming  PhD Student (2012 -)
+####  Zhang Wen  PhD Student (2012 -)
+####  Zhou Peng  PhD Student (2012 -)
+####  Ng Hoi Man  PhD Student (2013 -)
+####  Xu Chen  PhD Student (2013 -)
+####  Zhang Baozhong  PhD Student (2013 -)
+####  Zhou Nan  PhD Student (2013 -)
+####  Fan Weimin  PhD Student (2014 -)
+####  Ma Sophia Ka Yan  PhD Student (2014 -)
+####  Arya Smriti  PhD Student (2015 -)
+####  Wong Sheung Kin Ken  PhD Student (2015 -)
+####  Xia Tingying  PhD Student (2015 -)
+####  Zhao Kaiqiang  PhD Student (2015 -)
+####  Badea Smaranda-ruxandra  PhD Student (2016 -)
+####  Deng Jian  PhD Student (2016 -)
+####  Fan Ruolin  PhD Student (2016 -)
+####  Han Shuo  PhD Student (2016 -)
+####  Gao Ge  PhD Student (2017 -)
+####  Rong Li  PhD Student (2017 -)
+####  Chen Huan  PhD Student (2018 -)
+####  Gong Huarui  PhD Student (2018 -)
+####  Guo Jilong  PhD Student (2018 -)
+####  He Yi  PhD Student (2018 -)
+####  Kuwentrai Chaiyaporn  PhD Student (2018 -)
+####  Hu Yefan  PhD Student (2019 -)
+####  Xuan Yiyi  PhD Student (2019 -)
+####  Yuen Tsz Lo  PhD Student (2019 -)
+####  Au-yeung Yee Man  PhD Student (2020 -)
+####  Chan Wai Fong  PhD Student (2020 -)
+####  Li Renhao  PhD Student (2020 -)
+####  Lin Xuansheng  PhD Student (2020 -)
+####  Chen Haining  PhD Student (2021 -)
+####  Su Canhui  PhD Student (2021 -)
+####  Wu Yangfan  PhD Student (2021 -)
+####  Chui Wai Hin  PhD Student (2022 -)
+####  Duan Suling  PhD Student (2022 -)
+####  Jin Fanming  PhD Student (2022 -)
+####  Li Wenjun  PhD Student (2022 -)
+####  Liu Jingcheng  PhD Student (2022 -)
+####  Wang Zihan  PhD Student (2022 -)
+####  Chen Zhulin  PhD Student (2023 -)
 
 ### Postdoctoral Fellows
 
