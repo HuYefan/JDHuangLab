@@ -1,5 +1,7 @@
 ![header](/publications/publications_1.png)
 
+
+
 ## 2013
 
 * Ye Jin, Jianting Wu, Yannan Li, Zhiming Cai and **Jian-Dong Huang** (2013 published on September 1, 2013, Epub ahead of print July 9, 2013) Modification of the RpoS network with an artificial small RNA. **Nucleic Acids Research**, V41(17):8332-8340.
@@ -20,10 +22,58 @@
 * Siva Sundara Kumar Durairajan, Liang-Feng Liu, Jia-Hong Lu, Lei-Lei Chen, Qiuju Yuan, Sookja K. Chung, Ling Huang,  Xing-Shu Li, **Jian-Dong Huang*** and Min Li*, (December 2012, Available online 26 March 2012) Berberine ameliorates β-amyloid pathology, gliosis, and cognitive impairment in an Alzheimer's disease transgenic mouse model. **Neurobiology of Aging** V33(12), P2903-19 (*co-corresponding author).
 * Tim Hon Man Chan, Leilei Chen, Ming Liu, Liang Hu, Bo-jian Zheng, Vincent Kwok-Man Poon, Yun-Fei Yuan, **Jian-Dong Huang**, Jie Yang, George Sai-wah Tsao, Xin-Yuan Guan, (February 2012, Epub ahead of print on September 27, 2011) Translationally controlled tumor protein induces mitotic defects and chromosome missegregation in hepatocellular carcinoma development. **Hepatology**V55(2):491-505 doi: 10.1002/hep.24709*
 * Song Lu, Lin-Yu Lu, Qiu-Ju Yuan, Mai-Har Sham, Xin-Yuan Guan, **Jian-Dong Huang** (2012, Epub ahead of print on August 10, 2011) Cerebellar defects in Pdss2 conditional knockout mice during embryonic development and in adulthood. **Neurobiology of Disease** V45, P219–233,  doi:10.1016/j.nbd.2011.08.006
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
  
 ## 2011
 * Chenli Liu, Xiongfei Fu, Lizhong Liu, Xiaojing Ren, Carlos K.L. Chau, Sihong Li, Lu Xiang, Hualing Zeng, Guanhua Chen, Lei-Han Tang, Peter Lenz, Xiaodong Cui, Wei Huang*, Terence Hwa*, **Jian-Dong Huang*** (2011) Sequential establishment of stripe patterns in an expanding cell population. **Science** V334, P238-241. (*co-corresponding author) DOI: 10.1126/science.1209042
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 * Ju Cui, Zai Wang, Qianni Cheng, Raozhou Lin, Xin-Mei Zhang, Po Sing Leung, Neal G. Copeland, Nancy A. Jenkins, Kwok-Ming Yao, and **Jian-Dong Huang** (January 2011, published ahead of print September 24, 2010) Targeted Inactivation of Kinesin-1 in Pancreatic β-Cells in vivo Leads to Insulin Secretory Deficiency. **Diabetes** V60(1), P320-330, doi:10.2337/db09-1078
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 * Mei Yang, Jingqi Chen, Fang Su, Bin Yu, Ling Lin, Yujie Liu, **Jian-Dong Huang*** and Erwei Song* (September 22, 2011 Epub ahead of print) Microvesicles secreted by macrophages shuttle invasion-potentiating microRNAs into breast cancer cells. **Molecular Cancer** V10(1):117 (*co-corresponding author) doi:10.1186/1476-4598-10-117 
 * Wen Yang, Wen-yang Chen, Hui Wang, John W. S. Ho, **Jian-Dong Huang**, Patrick C. Y. Woo, Susanna K.P. Lau, Kwok-Yung Yuen, Qionglin Zhang, Weihong Zhou, Mark Bartlam, Rory M. Watt, and Zihe Rao, (September 5, 2011. Epub ahead of print) Structural and functional insight into the mechanism of an alkaline exonuclease from Laribacter hongkongensis. **Nucleic Acids Research** doi: 10.1093/nar/gkr660 
 * Ye Jin, and **Jian-Dong Huang** (First published online: July 29, 2011) Engineering a portable riboswitch-LacP hybrid device for two-way gene regulation. Nucleic Acids Research (published) doi: 10.1093/nar/gkr609
