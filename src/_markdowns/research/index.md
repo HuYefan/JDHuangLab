@@ -11,13 +11,15 @@ Bacterial cells are programmed to form sequential patterns with tunable number o
 #### Antigenic Field Theory and Vaccines against Viruses
 Current COVID-19 vaccines are highly effective against symptomatic disease, but repeated booster doses using vaccines based on the ancestral strain offer limited additional protection against SARS-CoV-2 variants of concern (VOCs). To address this, we used "antigenic distance" to *in silico* select optimized booster vaccine seed strains effective against both current and future VOCs. Based on research and analysis of immune escape of SARS-CoV-2 virus, we constructed an "antigen distance" model using existing neutralization and sequencing data. This model measured the degree of immune escape between different mutant strains based on the neutralizing abilities of human sera against various strains. Based on the "antigenic distance", we can generate a region in which each point (variant) has a vaccine efficacy associated with it. In the Discussion of the paper, the researchers proposed a new concept called the "antigen field" to better understand and quantify the interactions (immune responses) between the human immune system and foreign antigens. This concept is similar to an "electric field" and refers to the fundamental interactions diffused within the immune space. Infection or administration of a specific antigen generates an "antigen field." After its activation, this antigen field can "repel" subsequent antigens attempting to enter the same field or antigens that are in close proximity to the initial antigen in terms of antigenic distance. The proposed "antigenic field" concept opens new avenues for understanding the immune system's interaction with foreign antigens, potentially influencing future vaccine and immunotherapy development.
 
+![Antigenic Field 1](/research/research_5.png)
+
 #### Vaccines for Antimicrobial Resistance (AMR) 
 The global challenge of antimicrobial resistance (AMR) necessitates the development of novel strategies and vaccines to effectively combat bacterial infections. To achieve this goal, we used multiple strategies including synthetic-biologically engineered live attenuated vaccines and rationally designed bacterial outer membrane vesicles (OMVs). For live attenuated vaccines, it is critical to engineer bacteria by weakening their virulence but keeping the protective immunity. While for OMVs, it is vital to include and display effective antigens properly to induce protective immunity. We rationally deigned vaccines against *Staphylococcus aureus*, *Pseudomonas aeruginosa*, and *Klebsiella pneumoniae*.
 
 #### Bacteria-based Cancer Vaccines
 *Salmonella* is a Gram-negative species that generally causes self-limiting gastroenteritis in humans.  We rationally designed and engineered *Salmonella* that can selectively colonize tumors, where they can proliferate and exert direct oncolytic effects as well as stimulating the immune system. 
-![Synthetic Biology 2](/research/research_3.png)
-![Synthetic Biology 3](/research/research_4.png)
+![Bacteria-based Cancer Vaccines 1](/research/research_3.png)
+![Bacteria-based Cancer Vaccines 2](/research/research_4.png)
 
 ## Intracellular Transportation
 ![Intracellular Transportation](/research/research_1.png)
