@@ -20,7 +20,7 @@ Email: <jdhuang@hku.hk>
 
 </div>
 
-## Staf
+## Staff
 
 ### Mr Anthony Chie Chien Tsang 曾子健
 
@@ -237,13 +237,13 @@ Email: <akanshas@hku.hk>
 
 #### Mr Wong Ho Yin Bosco 王浩然 (2010-2011)
 
-### M.Med.Sci. Student
+### MMedSci Student
 
 #### Mr Tsui Heung Wing, Wayne 徐向榮 (9/2004-4/2007)
 
 #### Miss Haotong Wang 王昊通 (10/2011-2/2012)
 
-### M.Phil students
+### MPhil students
 
 #### Miss Wong Nga Yi, Queenie (1999-2002)
 
@@ -504,7 +504,7 @@ Email: <ni_yanxiang@yahoo.com.cn>
 
 #### Ms Hou Yanhua 侯艳华 (visiting scientist, 7/2006 - 8/2006)
 
-#### Mr Yu Bin于斌 (Research Associate 3/16/2007 – 11/30/2007)
+#### Mr Yu Bin 于斌 (Research Associate 3/16/2007 – 11/30/2007)
 
 #### Mr Zhang Ke, Kevin 张科 (Cheng Yu Tung Fellow, 9/1/2007-2/27/2008)
 
