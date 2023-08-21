@@ -16,7 +16,9 @@ School of Biomedical Sciences
 Li Ka Shing Faculty of Medicine
 The University of Hong Kong
 21 Sassoon Road
+
 Pokfulam
+
 Hong Kong SAR
 
 ### Phone
