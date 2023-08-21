@@ -1,10 +1,46 @@
 ![header](/publications/publications_1.png)
 
 
+## 2023
+* Ye-Fan Hu§, Terrence Tsz-Tai Yuen§, Hua-Rui Gong§, Bingjie Hu§, Jing-Chu Hu§, Xuan-Sheng Lin§, Li Rong, Coco Luyao Zhou, Lin-Lei Chen, Xiaolei Wang, Chaobi Lei, Thomas Yau, Ivan Fan-Ngai Hung, Kelvin Kai-Wang To, Kwok-Yung Yuen, Bao-Zhong Zhang※, Hin Chu※, **Jian-dong Huang**※ (August 9 2023) “Rational design of a booster vaccine against COVID-19 based on antigenic distance”, ***Cell Host & Microbe*** 31, 1301–1316 (§equal contribution, ※co-corresponding) (IF= 30.3, (2022))https://doi.org/10.1016/j.chom.2023.07.004
+        
+        
+* Jiawen Chen, Ting Li, Nan Zhou, Yige He, Jiasheng Zhong, Chengcheng Ma, Meiqin Zeng, Jingsen Ji, **Jian-Dong Huang**, Yiquan Ke※, Haitao Sun※ (Published: 23 June 2023) “Engineered Salmonella inhibits GPX4 expression and induces ferroptosis to suppress glioma growth in vitro and in vivo”, ***Journal of Neuro-Oncology*** volume 163, pages 607–622 (IF= 3.9, (2022)) https://doi.org/10.1007/s11060-023-04369-5
+        
+        
+* Sihui Hou, Mengge Wu, Hu Li, Hua-Rui Gong, Zhan Gao, Rui Shi, Xingcan Huang, Dengfeng Li, ***Jian-Dong Huang***※, Junsheng Yu※, Xinge Yu※ (First published: 19 June 2023) “Ultrasensitive Detection of SARS-CoV‑2 by Flexible Metal Oxide Field-Effect Transistors”, ***Advanced Functional Materials*** 2301268. (IF= 19.0, (2022))  https://doi.org/10.1002/adfm.202301268
+        
+         
+* Bao‐Zhong Zhang§, Yee‐Man Au‐Yeung§, Terrence Tsz‐Tai Yuen§, Xiaoyun Xu§, Hua‐Rui Gong, Zheng Zeng, Renhao Li, Jinlian Hu※, Hin Chu※, ***Jian‐Dong Huang***※ (23 July 2023)“Protein-Based Face Mask with High SARS-CoV-2 Neutralization Ability and Breathability”, ***Advanced Materials Technologies*** 2300590. (IF= 6.8, (2022)) https://doi.org/10.1002/admt.202300590
+        
+        
+* Yee-Man Au-Yeung, Chuyuan Zhang, Huan Chen, Hin Chu, Hanjun Zhao※, Bao-Zhong Zhang※, **Jian-Dong Huang**※ (First published: 08 July 2023) “Engineered Intranasal Virus Trap Provides Effective Protection Against SARS-CoV-2 Infection in Hamsters”, ***Advanced Functional Materials*** 202305120. (IF= 19.0, (2022))  https://doi.org/10.1002/adfm.202305120
+        
+        
+* Xiaolei Wang§, Terrence Tsz-Tai Yuen§, Ying Dou§, Jingchu Hu§, Renhao Li§, Zheng Zeng, Xuansheng Lin, Huarui Gong, Celia Hoi-Ching Chan, Chaemin Yoon, Huiping Shuai, Deborah Tip-Yin Ho, Ivan Fan-Ngai Hung, Bao-Zhong Zhang※, Hin Chu※, **Jian-Dong Huang**※ (Published: 10 June 2023) “Vaccine-induced protection against SARS-CoV-2 requires IFN-γ-driven cellular immune response”,***Nature Communications***, V 14, Article number: 3440 (IF= 16.6, (2022)) https://doi.org/10.1038/s41467-023-39096-y
+        
+        
+* Ran Liu, Ye-Fan Hu, **Jian-Dong Huang**※, Xiaodan Fan※ (July 2023) “A Bayesian approach to estimate MHC-peptide binding threshold”, ***Briefings in Bioinformatics***, Volume 24, Issue 4, bbad208, (IF= 9.5, (2022)) https://doi.org/10.1093/bib/bbad208
+        
+        
+* Siva Sundara Kumar Durairajan, Abhay Kumar Singh, Udhaya Bharathy Saravanan, Mayurikaa Namachivayam, Moorthi Radhakrishnan, **Jian-Dong Huang**, Rahul Dhodapkar, Hongjie Zhang (Published: 24 May 2023) “Gastrointestinal Manifestations of SARS-CoV-2: Transmission, Pathogenesis, Immunomodulation, Microflora Dysbiosis, and Clinical Implications”, ***Viruses*** 2023, 15(6), 1231; (IF= 4.7, (2022)) https://doi.org/10.3390/v15061231
+        
+        
+* Jingjing Sun§, Xuansheng Lin§, Yige He, Baozhong Zhang, Nan Zhou※, **Jian-dong Huang**※ (RECEIVED 05 November 2022, ACCEPTED 06 January 2023, PUBLISHED 19 January 2023) “A bacterial outer membrane vesicle-based click vaccine elicits potent immune response against Staphylococcus aureus in mice”, ***Frontiers in Immunology*** (section Vaccines and Molecular Therapeutics), Volume 14:1088501. (§equal contribution, ※co-corresponding) (IF= 7.3, (2022)) https://doi.org/10.3389/fimmu.2023.1088501
+        
+         
+
+
 ## 2022
-* Jingjing Sun§, Xuansheng Lin§, Yige He, Baozhong Zhang, Nan Zhou※, **Jian-dong Huang**※ (RECEIVED 05 November 2022, ACCEPTED 06 January 2023, PUBLISHED 19 January 2023) “A bacterial outer membrane vesicle-based click vaccine elicits potent immune response against Staphylococcus aureus in mice”, ***Frontiers in Immunology*** (section Vaccines and Molecular Therapeutics), Volume 14:1088501. (§equal contribution, ※co-corresponding) (IF= 8.787, (2021)) https://doi.org/10.3389/fimmu.2023.1088501 
-* Xuanming Guo, Jianli Cao, Jian-Piao Cai, Jiayan Wu, Jiangang Huang, Pallavi Asthana, Sheung Kin Wong, Zi-Wei Ye, Susma Gurung, Yijing Zhang, Sheng Wang, Zening Wang, Xin Ge, Hiu Yee Kwan, Aiping Lu, Kui ming Chan, Nathalie Wong, Jiandong Huang, Zhongjun Zhou, Zhao-xiang Bian, Shuofeng Yuan, and Hoi Leong Xavier Wong (Received: 6 May 2022; Accepted: 12 December 2022; Published online: 23 December 2022) “Control of SARS-CoV-2 infection by MT1-MMP-mediated shedding of ACE2”, ***Nature Communications***, V 13, Article number: 7907 (IF= 17.7, (2021)) doi: https://doi.org/10.1038/s41467-022-35590-x 
-* Xue Li, Kuan Peng, Franco WT Cheng, David CL Lam, Ching Lung Cheung, Celine SL Chui, Francisco TT Lai, Eric YF Wan, Carlos KH Wong, Tiantian Ma, Samson HH Yum, Esther WY Chan, Jian Dong Huang, Chak Sing Lau, Mary SM Ip, Ian CK Wong (Accepted 14 December 2022, Available online 17 December 2022) “Tuberculosis following two-dose SARS-CoV-2 vaccination with messenger RNA vaccine (BNT162b2) and inactivated virus vaccine (CoronaVac)”, ***Journal of Infection***, (accepted) (IF=38.637, (2021)) doi: https://doi.org/10.1016/j.jinf.2022.12.016 
+* Meiling Jin, ***Jian-Dong Huang*** (18 November 2022) “New mechanism to promote long-term T-cell immunity by telomere transfer from antigen-presenting cells”, ***Cellular & Molecular Immunology*** volume 20, pages 117–118 (IF= 24.1, (2022))https://doi.org/10.1038/s41423-022-00949-z
+        
+        
+* Xuanming Guo, Jianli Cao, Jian-Piao Cai, Jiayan Wu, Jiangang Huang, Pallavi Asthana, Sheung Kin Wong, Zi-Wei Ye, Susma Gurung, Yijing Zhang, Sheng Wang, Zening Wang, Xin Ge, Hiu Yee Kwan, Aiping Lu, Kui ming Chan, Nathalie Wong, Jiandong Huang, Zhongjun Zhou, Zhao-xiang Bian, Shuofeng Yuan, and Hoi Leong Xavier Wong (Received: 6 May 2022; Accepted: 12 December 2022; Published online: 23 December 2022) “Control of SARS-CoV-2 infection by MT1-MMP-mediated shedding of ACE2”, ***Nature Communications***, V 13, Article number: 7907 (IF= 17.7, (2021)) doi: https://doi.org/10.1038/s41467-022-35590-x
+        
+         
+* Xue Li, Kuan Peng, Franco WT Cheng, David CL Lam, Ching Lung Cheung, Celine SL Chui, Francisco TT Lai, Eric YF Wan, Carlos KH Wong, Tiantian Ma, Samson HH Yum, Esther WY Chan, Jian Dong Huang, Chak Sing Lau, Mary SM Ip, Ian CK Wong (Accepted 14 December 2022, Available online 17 December 2022) “Tuberculosis following two-dose SARS-CoV-2 vaccination with messenger RNA vaccine (BNT162b2) and inactivated virus vaccine (CoronaVac)”, ***Journal of Infection***, (accepted) (IF=38.637, (2021)) doi: https://doi.org/10.1016/j.jinf.2022.12.016
+        
+         
 * Meiling Jin§, Jingchu Hu§, Lili Tong, Bao-zhong Zhang, **Jian-dong Huang** (Received: October 18, 2022, Revised: December 6, 2022, Published online: December 12, 2022) “The epitope basis of embryonic stem cell-induced antitumor immunity against bladder cancer”, ***Advanced Healthcare Materials***, e2202691, (§equal contribution) (IF= 11.092, (2021)) doi: https://doi.org/10.1002/adhm.202202691
 * Lixiang Zhai +, Chunhua Huang +, Ziwan Ning +, Yijing Zhang +, Min Zhuang, Wei Yang, Xiaolei Wang, Jingjing Wang, Eric Lu Zhang, Haitao Xiao, Ling Zhao, Yan Y. Lam, Chi Fung Willis Chow, Jiandong Huang, Shuofeng Yuan, Kui Ming Chan, Chun-Su Yuan, Johnson Yiu-Nam Lau, Hoi Leong Xavier Wong ※, Zhao-xiang Bian ※  (Received 13 March 2022, Revised 6 September 2022, Accepted 15 November 2022, Available online 9 December 2022) “Pathogenetic Role of Gut Microbiota Shunting of Dietary Phenylalanine to Phenethylamine in Diarrhea-Predominant Irritable Bowel Syndrome”, ***Cell Host & Microbe***, (+ Co-first authors, ※ co-corresponding author) (accepted) (IF= 31.316, (2022)) doi: https://doi.org/10.1016/j.chom.2022.11.006 
 * Hua-Rui Gong§, Ye-fan Hu§, Xuechen Li, Hin Chu, Thomas Yau, Bao-Zhong Zhang※, **Jian-dong Huang**※ (Received 27 September 2022, Published online10 November 2022) “Non-Neutralizing Epitopes Shade Neutralizing Epitopes against Omicron in a Multiple Epitope-Based Vaccine”, ***ACS Infectious Diseases***, (§ equal contribution, ※ co-corresponding author) V8 (12), 2586-2593 (IF= 5.084, (2021)) doi: https://doi.org/10.1021/acsinfecdis.2c00488
