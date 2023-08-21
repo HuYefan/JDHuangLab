@@ -8,7 +8,9 @@
 
 <div align="left">
 
-Associate Professor
+Chair Professor of Synthetic Biology
+
+L & T Charitable Foundation Professor in Biomedical Sciences
 
 Location: Laboratory Block, Faculty of Medicine Building
 
