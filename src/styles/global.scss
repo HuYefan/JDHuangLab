@@ -1,0 +1,136 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--foreground-rgb: 0, 0, 0;
+	--background-start-rgb: 214, 219, 220;
+	--background-end-rgb: 250, 250, 250;
+}
+
+body {
+	color: rgb(var(--foreground-rgb));
+	background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+	overflow-x: hidden;
+	> div {
+		width: 100%;
+		min-height: calc(100vh - 6rem);
+		min-height: 100vh;
+		display: flex;
+		justify-content: center;
+		padding-top: 6rem;
+		@media not all and (min-width: 640px) {
+			padding-top: 5rem;
+		}
+	}
+}
+
+:not(body, [data-radix-popper-content-wrapper]) {
+	transition: all 0.2s cubic-bezier(0.66, 0.09, 0.49, 1.21);
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
+}
+
+::-webkit-scrollbar-corner,
+::-webkit-scrollbar-corner {
+	background-color: #f2f3f4;
+}
+
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-thumb {
+	border-radius: 6px;
+	background: #333;
+	transition: all 1s;
+}
+
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+::selection {
+	background: rgb(179 179 179);
+	color: #333;
+}
+
+.markdown-navigation {
+	font-size: 14px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Helvetica', 'Arial', 'PingFang SC',
+		'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+	width: 100%;
+	overflow: hidden;
+}
+
+.markdown-navigation .title-anchor {
+	display: block;
+	color: #bbb;
+	transition: all 0.2s;
+	margin: 0.8em 0;
+	font-weight: lighter;
+	line-height: 2em;
+	padding-right: 1.8em;
+	cursor: pointer;
+}
+
+.markdown-navigation .title-anchor:hover,
+.markdown-navigation .title-anchor.active {
+	background-color: #f8f8f8;
+	text-decoration: inherit;
+}
+
+.markdown-navigation .title-anchor.active {
+	font-weight: bold;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+}
+
+.markdown-navigation .title-anchor small {
+	margin: 0 0.8em;
+}
+
+.markdown-navigation .title-level1 {
+	color: #000;
+	font-size: 1.2em;
+	padding-left: 1em;
+	font-weight: normal;
+}
+
+.markdown-navigation .title-level2 {
+	color: #333;
+	font-size: 1em;
+	padding-left: 1em;
+	font-weight: normal;
+}
+
+.markdown-navigation .title-level3 {
+	color: #666;
+	font-size: 0.8em;
+	padding-left: 3em;
+	font-weight: normal;
+}
+
+.markdown-navigation .title-level4 {
+	color: #999;
+	font-size: 0.72em;
+	padding-left: 5em;
+}
+
+.markdown-navigation .title-level5 {
+	color: #aaa;
+	font-size: 0.72em;
+	padding-left: 7em;
+}
+
+.markdown-navigation .title-level6 {
+	color: #bbb;
+	font-size: 0.72em;
+	padding-left: 9em;
+}
+
+.markdown-body ol {
+	list-style: auto;
+}
